@@ -24,16 +24,27 @@ Run script:
 
 ## Example Output
 [INFO] Starting project setup...
+
 [INFO] Checking for virtual environment...
+
 [INFO] Creating new virtual environment...
+
 [SUCCESS] Virtual environment created.
+
 [SUCCESS] Virtual environment activated.
+
 [INFO] Upgrading pip...
+
 [SUCCESS] pip upgraded successfully.
+
 [INFO] Checking for .gitignore...
+
 [SUCCESS] .gitignore created.
+
 [INFO] Installing required Python packages...
+
 [SUCCESS] Packages installed successfully.
+
 [SUCCESS] Project setup completed successfully!
 
 ## Challenges Faced
